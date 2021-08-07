@@ -2,7 +2,7 @@
 
 ## Introduction
 
-### Goal:
+### Goal
 This work contains basic steps of data manipulation with Pandas that I began with. This work is purely for display purposes, but can be useful notes.
 
 ### Data
